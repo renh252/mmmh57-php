@@ -1,8 +1,8 @@
 <?php
 $db_host = 'localhost';
 $db_name = 'proj57';
-$db_user = 'shinder';
-$db_pass = 'admin';
+$db_user = 'root';
+$db_pass = 'P@ssw0rd';
 
 $dsn = sprintf('mysql:host=%s;dbname=%s;charset=utf8', $db_host, $db_name);
 
